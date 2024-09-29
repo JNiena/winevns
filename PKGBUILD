@@ -15,6 +15,8 @@ depends=(
 	'samba'
 	'dosbox'
 
+	'lib32-mesa'
+
 	'ffmpeg'
 #	'lib32-ffmpeg'
 
@@ -44,6 +46,9 @@ depends=(
 
 	'gst-plugins-ugly'
 #	'lib32-gst-plugins-ugly'
+
+	'vulkan-radeon'
+	'lib32-vulkan-radeon'
 
 	'vulkan-icd-loader'
 	'lib32-vulkan-icd-loader'
